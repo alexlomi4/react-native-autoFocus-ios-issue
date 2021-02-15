@@ -17,3 +17,6 @@ AR=ER keyboard is closed
 AR: keyboard is opened again
 
 ER: keyboard is not opened as there are not any inputs on this screen
+
+<img src="https://raw.githubusercontent.com/alexlomi4/react-native-autoFocus-ios-issue/master/issue.gif" height="600" />
+
